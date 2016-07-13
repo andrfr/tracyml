@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420"
+   height="362.5"
+   id="svg14609"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="thesis_structure.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#dddddd"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="257.23409"
+     inkscape:cy="144.47491"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3691"
+     showgrid="true"
+     units="pt"
+     objecttolerance="50"
+     gridtolerance="10000"
+     inkscape:window-width="1411"
+     inkscape:window-height="1024"
+     inkscape:window-x="507"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs14611">
+    <marker
+       style="overflow:visible"
+       id="TriangleInM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4759"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4768"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4644"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4638"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4765"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4756"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4641"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14643"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14639"
+       effect="spiro" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 z"
+       is_visible="true"
+       id="path-effect14635"
+       effect="skeletal" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14633"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14629"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMP"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMP">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9464"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInMW"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInMW">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9596"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM0">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9599"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMh"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMh">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9602"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMi"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMi">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9605"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInMp"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInMp">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9608"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMb"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMb">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9611"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMPs"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMPs">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9614"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMo"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMo">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9617"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInMz"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInMz">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9620"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMJ"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMJ">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9623"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMPsB"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMPsB">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#a22223;fill-rule:evenodd;stroke:#a22223;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9794"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMbz"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMbz">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#a22223;fill-rule:evenodd;stroke:#a22223;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9797"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutMih"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutMih">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#a22223;fill-rule:evenodd;stroke:#a22223;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path9800"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata14614">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-689.8613)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3825"
+       width="540"
+       height="469.28571"
+       x="-57.142857"
+       y="640.21844" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3825-4-3-96-4-1-8-6"
+       y="830.57593"
+       x="66.731979"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="830.57593"
+         x="66.731979"
+         sodipodi:role="line"
+         id="tspan3594-8-9" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3825-4-3-5-3-3-1-1"
+       y="970.1109"
+       x="238.33096"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00000d;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#00000d;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="970.1109"
+         x="238.33096"
+         sodipodi:role="line"
+         id="tspan3354-9-6-60-5-5-3-7" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3825-4-3-1-7-0-8-6"
+       y="940.59344"
+       x="-26.266651"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="matrix(1,0.97874526,0,1,0,0)"><tspan
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="940.59344"
+         x="-26.266651"
+         sodipodi:role="line"
+         id="tspan3354-9-6-6-3-46-1-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="65"
+       y="205.71429"
+       id="text4147"
+       sodipodi:linespacing="125%"
+       transform="translate(0,632.3613)"><tspan
+         sodipodi:role="line"
+         x="65"
+         y="205.71429"
+         id="tspan4151" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3825-4-3-5-5"
+       y="908.74658"
+       x="142.68146"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:transform-center-x="-6.5659915"
+       inkscape:transform-center-y="10.101525"><tspan
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="908.74658"
+         x="142.68146"
+         sodipodi:role="line"
+         id="tspan3354-9-6-60-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="319.71329"
+       y="161.59891"
+       id="text4412"
+       sodipodi:linespacing="125%"
+       transform="translate(0,552.3613)"><tspan
+         sodipodi:role="line"
+         id="tspan4414"
+         x="319.71329"
+         y="161.59891" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4614"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4616"><rect
+           id="rect4618"
+           width="524.28571"
+           height="512.14288"
+           x="-17.142857"
+           y="-34.999996" /></flowRegion><flowPara
+         id="flowPara4620" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="69.19545"
+       y="347.72079"
+       id="text3157"
+       sodipodi:linespacing="125%"
+       transform="translate(0,577.3613)"><tspan
+         sodipodi:role="line"
+         id="tspan3159"
+         x="69.19545"
+         y="347.72079" /></text>
+    <g
+       id="g3691"
+       transform="translate(0,5.0000024)">
+      <rect
+         y="731.42181"
+         x="8.9285736"
+         height="255.67841"
+         width="402.14285"
+         id="rect4218"
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="210.00269"
+         y="710.01874"
+         id="text3825"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3827"
+           x="211.4314"
+           y="710.01874"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">How can web-based systems effectively provide </tspan><tspan
+           id="tspan3354"
+           sodipodi:role="line"
+           x="210.00269"
+           y="723.76874"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">transparency about a product's social sustainability?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="255.16257"
+         y="757.63861"
+         id="text3825-4-3"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6"
+           sodipodi:role="line"
+           x="255.16257"
+           y="757.63861"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans">What is transparency?</tspan></text>
+      <rect
+         y="795.57758"
+         x="11.968063"
+         height="63.474991"
+         width="396.06387"
+         id="rect4262"
+         style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="906.88928"
+         x="11.968002"
+         height="16.92749"
+         width="396.064"
+         id="rect4262-7"
+         style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="302.9906"
+         y="918.21045"
+         id="text3825-4-3-4-9-9-8-3"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-3-8-8-0-6"
+           sodipodi:role="line"
+           x="302.9906"
+           y="918.21045"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">Related DSML Designs</tspan></text>
+      <rect
+         y="961.87103"
+         x="11.968002"
+         height="16.92749"
+         width="396.064"
+         id="rect4262-7-1"
+         style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="361.27335"
+         y="973.22174"
+         id="text3825-4-3-5-3-3"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-60-5-5"
+           sodipodi:role="line"
+           x="361.27335"
+           y="973.22174"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">DSML Design</tspan></text>
+      <g
+         transform="translate(0,48.83063)"
+         id="g3172">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-4"
+           y="823.75098"
+           x="46.478989"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="823.75098"
+             x="46.478989"
+             sodipodi:role="line"
+             id="tspan3354-9-6-3">Related Research</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1-7-0"
+           y="823.75098"
+           x="36.120499"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="823.75098"
+             x="36.120499"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6-3-46">3</tspan></text>
+      </g>
+      <g
+         transform="translate(0,56.83063)"
+         id="g3166">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-5"
+           y="897.14484"
+           x="46.478989"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="897.14484"
+             x="46.478989"
+             sodipodi:role="line"
+             id="tspan3354-9-6-60">Running Example</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1-7-0-8"
+           y="897.14484"
+           x="36.120499"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="897.14484"
+             x="36.120499"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6-3-46-1">4</tspan></text>
+      </g>
+      <g
+         transform="translate(0,54.673037)"
+         id="g3160">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-5-3"
+           y="918.54871"
+           x="46.478989"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="918.54871"
+             x="46.478989"
+             sodipodi:role="line"
+             id="tspan3354-9-6-60-5">S-LCA Study</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1-7-0-8-1"
+           y="918.54871"
+           x="36.120499"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="918.54871"
+             x="36.120499"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6-3-46-1-1">5</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="400.53293"
+         y="974.26373"
+         id="text3825-4-3-1-7-0-8-0"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-6-3-46-1-2"
+           sodipodi:role="line"
+           x="400.53293"
+           y="974.26373"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">6</tspan><tspan
+           id="tspan3979"
+           sodipodi:role="line"
+           x="400.53293"
+           y="988.01373"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="46.478989"
+         y="1030.5129"
+         id="text3825-4-3-5-3-3-1-1-8"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-60-5-5-3-7-2"
+           sodipodi:role="line"
+           x="46.478989"
+           y="1030.5129"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">Conclusion</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="36.120499"
+         y="1030.3169"
+         id="text3825-4-3-1-7-0-8-12-9-3"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-6-3-46-1-0-4-7"
+           sodipodi:role="line"
+           x="36.120499"
+           y="1030.3169"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans">9</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="255.16257"
+         y="773.30542"
+         id="text3825-4-3-2"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-1"
+           sodipodi:role="line"
+           x="255.16257"
+           y="773.30542"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans">Why is t. important?</tspan></text>
+      <g
+         transform="translate(-1.9548746,107.26049)"
+         id="g3317">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1-75"
+           y="666.04492"
+           x="51.664341"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="666.04492"
+             x="51.664341"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6-6">2.2</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-2-2"
+           y="666.04492"
+           x="72.384308"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="666.04492"
+             x="72.384308"
+             sodipodi:role="line"
+             id="tspan3354-9-6-1-2">Corporate Social Responsibility</tspan></text>
+      </g>
+      <g
+         transform="translate(-1.9548746,108.70037)"
+         id="g3311">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1"
+           y="648.74219"
+           x="51.664341"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="648.74219"
+             x="51.664341"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6">2.1</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-2-2-3"
+           y="648.74219"
+           x="72.384308"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="648.74219"
+             x="72.384308"
+             sodipodi:role="line"
+             id="tspan3354-9-6-1-2-9">Corporate Transparency</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="255.16257"
+         y="788.97217"
+         id="text3825-4"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9"
+           sodipodi:role="line"
+           x="255.16257"
+           y="788.97217"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans">What is sustainability?</tspan></text>
+      <rect
+         y="800.10297"
+         x="17.961044"
+         height="31.314724"
+         width="384.07791"
+         id="rect4262-5"
+         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+         x="311.86584"
+         y="825.97571"
+         id="text3825-4-3-96-4"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-84-4"
+           sodipodi:role="line"
+           x="311.86584"
+           y="825.97571"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#cccccc;font-family:Open Sans;-inkscape-font-specification:Open Sans">How to comm. effectively?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+         x="112.36169"
+         y="825.97571"
+         id="text3825-4-0"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-4"
+           sodipodi:role="line"
+           x="112.36169"
+           y="825.97571"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#cccccc;font-family:Open Sans;-inkscape-font-specification:Open Sans">How to measure social sust.?</tspan></text>
+      <g
+         transform="translate(-1.9548746,106.56271)"
+         id="g3323">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1-7"
+           y="682.40948"
+           x="51.664341"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="682.40948"
+             x="51.664341"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6-3">2.3</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-2-2-0"
+           y="682.40948"
+           x="72.384308"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="682.40948"
+             x="72.384308"
+             sodipodi:role="line"
+             id="tspan3354-9-6-1-2-7">Sustainable Development</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="366.38678"
+         y="847.1665"
+         id="text3825-4-3-1-7-6-5"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-6-3-4-3"
+           sodipodi:role="line"
+           x="366.38678"
+           y="847.1665"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">2.5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="35.763355"
+         y="1000.2435"
+         id="text3825-4-3-1-7-0-8-12"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-6-3-46-1-0"
+           sodipodi:role="line"
+           x="35.763355"
+           y="1000.2435"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans">7</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="46.478989"
+         y="999.74597"
+         id="text3825-4-3-5-3-3-1-4"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-60-5-5-3-1"
+           sodipodi:role="line"
+           x="46.478989"
+           y="999.74597"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">Sustainability Reporting System (SRS)</tspan></text>
+      <g
+         transform="translate(0,114.83063)"
+         id="g3178">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-4-95"
+           y="629.78351"
+           x="46.478989"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="629.78351"
+             x="46.478989"
+             sodipodi:role="line"
+             id="tspan3354-9-6-3-84">Background</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1-7-0-5"
+           y="629.78351"
+           x="36.120499"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="629.78351"
+             x="36.120499"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6-3-46-0">2</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4453"
+         d="m 210,802.88089 0,25.75889"
+         style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4453-1"
+         d="m 210,836.38035 0,16.61993"
+         style="fill:none;stroke:#000000;stroke-width:0.78930157px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="translate(0,80.83063)"
+         id="g3416">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1-7-6"
+           y="766.7171"
+           x="51.664341"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="766.7171"
+             x="51.664341"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6-3-4">2.4</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-37"
+           y="766.7171"
+           x="72.384308"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="766.7171"
+             x="72.384308"
+             sodipodi:role="line"
+             id="tspan3354-9-9">Measuring social sust.</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="355.88882"
+         y="847.57727"
+         id="text3825-4-37-5-5"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-9-9-5"
+           sodipodi:role="line"
+           x="355.88882"
+           y="847.57727"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">Comm. complex information</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4453-1-3"
+         d="m 209.70818,909.35613 0,11.99375"
+         style="fill:none;stroke:#000000;stroke-width:0.78930157px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="36.120499"
+         y="1014.9335"
+         id="text3825-4-3-1-7-0-8-12-9"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-6-3-46-1-0-4"
+           sodipodi:role="line"
+           x="36.120499"
+           y="1014.9335"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans">8</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="46.478989"
+         y="1015.1295"
+         id="text3825-4-3-5-3-3-1-1-8-2"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-60-5-5-3-7-2-0"
+           sodipodi:role="line"
+           x="46.478989"
+           y="1015.1295"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">Evaluation</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="272.08862"
+         y="1014.5253"
+         id="text3825-4-3-5-3-3-1-1-8-2-1"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-60-5-5-3-7-2-0-1"
+           sodipodi:role="line"
+           x="272.08862"
+           y="1014.5253"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans">Does the SRS effectively comm. social sust?</tspan></text>
+      <g
+         transform="translate(-2.1428629,47.40205)"
+         id="g3329">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-4-9"
+           y="839.83752"
+           x="72.384308"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="839.83752"
+             x="72.384308"
+             sodipodi:role="line"
+             id="tspan3354-9-6-3-8">ICT for Sustainability</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1-7-6-7"
+           y="839.83752"
+           x="51.664341"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="839.83752"
+             x="51.664341"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6-3-4-1">3.1</tspan></text>
+      </g>
+      <g
+         transform="translate(-2.1428629,50.1822)"
+         id="g3335">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-4-9-9"
+           y="852.69464"
+           x="72.384308"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="852.69464"
+             x="72.384308"
+             sodipodi:role="line"
+             id="tspan3354-9-6-3-8-8">Sustainable Supply Chain Management</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-4-3-1-7-6-7-9"
+           y="852.69464"
+           x="51.664341"
+           style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+             y="852.69464"
+             x="51.664341"
+             sodipodi:role="line"
+             id="tspan3354-9-6-6-3-4-1-2">3.2</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="69.736374"
+         y="933.53351"
+         id="text3825-4-3-4-9-9-7"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-3-8-8-7"
+           sodipodi:role="line"
+           x="69.736374"
+           y="933.53351"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">Web-Based Transparency Systems</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="49.521477"
+         y="918.54364"
+         id="text3825-4-3-1-7-6-7-9-4"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-6-3-4-1-2-7"
+           sodipodi:role="line"
+           x="49.521477"
+           y="918.54364"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">3.3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="70.955734"
+         y="918.94879"
+         id="text3825-4-3-4-9-9-8"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-3-8-8-0"
+           sodipodi:role="line"
+           x="70.955734"
+           y="918.94879"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">Related S-LCA studies</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="50.235767"
+         y="933.45386"
+         id="text3825-4-3-1-7-6-7-9-4-1"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-6-3-4-1-2-7-9"
+           sodipodi:role="line"
+           x="50.235767"
+           y="933.45386"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">3.4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         x="365.67249"
+         y="918.54352"
+         id="text3825-4-3-1-7-6-7-9-4-1-6"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3354-9-6-6-3-4-1-2-7-9-4"
+           sodipodi:role="line"
+           x="365.67249"
+           y="918.54352"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">3.5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+         x="265.66492"
+         y="813.49261"
+         id="text3825-4-0-5-8"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4392-3"
+           sodipodi:role="line"
+           x="265.66492"
+           y="813.49261"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#cccccc;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">Communication</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+         x="80.463989"
+         y="813.49261"
+         id="text3825-4-0-5-8-6"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4392-3-7"
+           sodipodi:role="line"
+           x="80.463989"
+           y="813.49261"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#cccccc;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">Measuring</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4453-1-3-0"
+         d="m 210,964.33786 0,11.99375"
+         style="fill:none;stroke:#000000;stroke-width:0.78930157px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
